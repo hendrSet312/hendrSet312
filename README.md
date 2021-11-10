@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hendrSet312
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning machine learning, SQL
+- 🌱 I’m currently learning data analysis, machine learning, SQL
 - 📫 How to reach me :
 Twitter : @HendS077
 
